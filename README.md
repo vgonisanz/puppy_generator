@@ -2,6 +2,10 @@
 
 This is a concept art to generate pixel puppies automatically using Tensorflow.
 
+## Developing
+
+Invoke `make develop`, now you can execute any script.
+
 ## Datasets
 
 In order to train models, we have created a dataset called `cherry`. This dataset contain folders. 
