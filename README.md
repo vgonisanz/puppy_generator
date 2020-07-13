@@ -32,4 +32,4 @@ The metadata is the input of the IA. It have the following elements:
 | has_tail           | bool | True in example                            |
 | is_symetric        | bool | True in example                            |
 | side               | enum | It shall be front, left or right           |
-| expression         | enum | It shall be happy, angry, zigzag or normal |
+| expression         | enum | It shall be none, happy, angry, zigzag, surprise or normal |

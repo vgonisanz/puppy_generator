@@ -1,12 +1,10 @@
-width: 0
-height: 0
-number_of_legs: 0
-number_of_arms: 0
-number_of_eyes: 0
-number_of_antennas: 0
+number_of_legs: 2
+number_of_arms: 2
+number_of_eyes: 2
+number_of_antennas: 2
 number_of_horns: 0
 has_head: False
 has_tail: False
 is_symetric: False
 side: front
-expression: normal 
+expression: surprise 
