@@ -1,6 +1,6 @@
-# space_invaders_generator
+# puppy_generator
 
-This is a concept art to generate pixel puppies automatically using Tensorflow.
+This is a concept art to generate pixel puppies automatically using [Keras](https://keras.io).
 
 ## Developing
 
