@@ -33,3 +33,7 @@ The metadata is the input of the IA. It have the following elements:
 | is_symetric        | bool | True in example                            |
 | side               | enum | It shall be front, left or right           |
 | expression         | enum | It shall be none, happy, angry, zigzag, surprise or normal |
+
+### Warnings
+
+When you run tox it could show a warning about cuda and dynamic library;you have more information [here](https://stackoverflow.com/questions/59823283/could-not-load-dynamic-library-cudart64-101-dll-on-tensorflow-cpu-only-install)
